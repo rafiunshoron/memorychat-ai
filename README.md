@@ -4,8 +4,9 @@
 
 ### A multi-user conversational AI with persistent short-term and long-term memory
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://memorychat-ai.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rafiunshoron/memorychat-ai)
+[![Launch Live Demo](https://img.shields.io/badge/Live_Demo-Launch_MemoryChat_AI-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://memorychat-ai.streamlit.app/)
+
+**[Experience MemoryChat AI →](https://memorychat-ai.streamlit.app/)**
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -167,11 +168,6 @@ The same address must be configured as the Supabase Site URL and an allowed auth
 - Mem0 retrieval is always filtered by the authenticated user ID.
 - Retrieved memories are treated as untrusted user context, not system instructions.
 - A Mem0 failure does not prevent the core chatbot from responding.
-
-## Live Project
-
-- **Application:** [https://memorychat-ai.streamlit.app](https://memorychat-ai.streamlit.app/)
-- **Repository:** [https://github.com/rafiunshoron/memorychat-ai](https://github.com/rafiunshoron/memorychat-ai)
 
 ## License
 
