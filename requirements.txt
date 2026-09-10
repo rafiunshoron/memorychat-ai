@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+langchain-openai
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+supabase
+mem0ai
+python-dotenv
+tiktoken
